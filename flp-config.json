@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "demo.sapui5ml-imageclassifier.sapui5ml-imageclassifier",
+        "description": "Image Classification",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/",
+        "appUrl": "#sapui5mlimageclassifier-Display",
+        "navigationComponentName": "demo.sapui5ml-imageclassifier",
+        "intentSemanticObject": "sapui5ml-imageclassifier",
+        "intentAction": "Display",
+        "html5ApplicationName": "sapui5mlimageclassifier",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "5df8b5ce-4525-4e86-9e7c-c8c4df2f37dd"
+        ],
+        "contentPackages": [
+            "a6289dbd-faa4-48e0-9efb-3a148386b251"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Image Classification",
+        "subtitle": "Image Classification",
+        "searchKeywords": "Image Classification,Image Classification",
+        "displayIconUrl": "sap-icon://image-viewer",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "url": "https://sandbox.api.sap.com/mlfs/api/v2/image/classification",
+  "method": "POST",
+  "accept": "application/json",
+  "fileType": "zip,png,jpeg,jpe,jpg,bmp,tiff,tif",
+  "mimeType": "application/x-zip-compressed,application/zip,application/octet-stream,image/png,image/jpg,image/jpeg,image/bmp,image/tiff",
+  "APIKey":"uPm9AZ8JyXGwAd8HsJmWdHGDGOZqB7bp"
+}
